@@ -13,3 +13,8 @@
 	url = https://github.com/kriper0217/surfacetortoise
 	shallow = true
 	registered = true
+[submodule "valmetrics"]
+	path = valmetrics
+	url = https://github.com/cran/valmetrics
+	shallow = true
+	registered = true
