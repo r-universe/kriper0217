@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mapsRinteractive"]
-	path = mapsRinteractive
-	url = https://github.com/kriper0217/mapsrinteractive
-	shallow = true
-	registered = true
-[submodule "SurfaceTortoise"]
-	path = SurfaceTortoise
-	url = https://github.com/kriper0217/surfacetortoise
-	shallow = true
-	registered = true
 [submodule "valmetrics"]
 	path = valmetrics
 	url = https://github.com/cran/valmetrics
